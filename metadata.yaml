@@ -1,5 +1,5 @@
 _repo: Man-a-Machine_52090
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Frederick II, King of Prussia
@@ -17,6 +17,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '46671'
     url: http://www.gutenberg.org/2009/agents/46671
+covers:
+- cover_type: archival
+  image_path: 52090-h/images/cover.jpg
 creator:
   author:
     agent_name: La Mettrie, Julien Offray de
@@ -35,6 +38,8 @@ creator:
     gutenberg_agent_id: '46670'
     url: http://www.gutenberg.org/2009/agents/46670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52090#Man-a-Machine
 gutenberg_issued: '2016-05-16'
 gutenberg_type: Text
 identifiers:
