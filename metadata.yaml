@@ -1,0 +1,54 @@
+_repo: Man-a-Machine_52090
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Frederick II, King of Prussia
+    aliases:
+    - Friedrich II, der Grosse, King of Prussia
+    - Prussia, Frederick II King of
+    birthdate: 1712
+    deathdate: 1786
+    gutenberg_agent_id: '31542'
+    url: http://www.gutenberg.org/2009/agents/31542
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_II_of_Prussia
+  translator:
+    agent_name: Bussey, Gertrude Carman
+    birthdate: 1888
+    deathdate: 1961
+    gutenberg_agent_id: '46671'
+    url: http://www.gutenberg.org/2009/agents/46671
+creator:
+  author:
+    agent_name: La Mettrie, Julien Offray de
+    aliases:
+    - La Metrie, M. de (Julien Offray)
+    - La Mettrie, Julien Offroy de
+    - Mettrie, Julien Offray de La
+    birthdate: 1709
+    deathdate: 1751
+    gutenberg_agent_id: '46668'
+    url: http://www.gutenberg.org/2009/agents/46668
+  editor:
+    agent_name: Calkins, Mary Whiton
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '46670'
+    url: http://www.gutenberg.org/2009/agents/46670
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52090'
+  lccn: '13004432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physiology -- Early works to 1800'
+- !lcsh 'Materialism'
+- !lcsh 'Mind and body'
+- !lcc 'B'
+- GITenberg
+title: Man a Machine
+url: http://www.gutenberg.org/ebooks/52090
